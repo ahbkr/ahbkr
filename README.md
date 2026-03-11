@@ -50,6 +50,9 @@
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-336699?style=flat-square&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-4B8BBE?style=flat-square&logo=nmap&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-3158A3?style=flat-square&logo=owasp&logoColor=white)
+![SQLmap](https://img.shields.io/badge/-SQLmap-gray?style=flat-square&logo=python&logoColor=white)
+![Nikto](https://img.shields.io/badge/-Nikto-FF0000?style=flat-square&logo=target&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-555555?style=flat-square&logo=kali-linux&logoColor=white)
 
 ###
@@ -64,6 +67,8 @@
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/-Elastic%20Stack-005571?style=flat-square&logo=elastic-stack&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Volatility](https://img.shields.io/badge/-Volatility-FF9900?style=flat-square&logo=target&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/-FTK%20Imager-4B0082?style=flat-square&logo=data-explorer&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
