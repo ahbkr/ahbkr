@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left"> Cybersecurity Specialist |  Full-Stack Security Developer</h3>
+<h2 align="left"> Cybersecurity Specialist |  Full-Stack Security Developer</h2>
 
 ###
 
