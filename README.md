@@ -65,6 +65,7 @@
 ![Elastic Stack](https://img.shields.io/badge/-Elastic%20Stack-005571?style=flat-square&logo=elastic-stack&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
